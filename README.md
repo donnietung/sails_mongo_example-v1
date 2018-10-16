@@ -2,6 +2,10 @@
 
 a [Sails v1](https://sailsjs.com) application
 
+### Usage
+Modify theses files
+config\routes.js
+config\datastores.js
 
 ### Links
 
